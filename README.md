@@ -4,7 +4,7 @@ A modern, responsive, and interactive portfolio website showcasing my skills, pr
 
 ## 🌐 Live Demo
 
-Visit Portfolio: https://chirag-khandala19.github.io/portfolio/
+Visit Portfolio: https://chirag-khandala19.github.io/Portfolio-/
 
 ## 📌 Features
 
